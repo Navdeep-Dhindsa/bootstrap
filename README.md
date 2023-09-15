@@ -1,6 +1,6 @@
 # BOOTSTRAP
 
-<img src="test.png" width="450">
+<img src="2mm.png" width="450">
 
 > Will update hopefully soon
 
